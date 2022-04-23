@@ -4,5 +4,6 @@ lab emdedded 010123120
 use board Kidbright and IR sensor write by ArduinoIDE
 
 ![278509133_1166959867400002_820635576645638474_n](https://user-images.githubusercontent.com/68387776/164416649-1a3e6ff7-ec80-437e-845f-6f5d6ef858d2.jpg)
+![277963502_976153676373461_7238551929328720597_n1](https://user-images.githubusercontent.com/68387776/164884653-31fa3eb7-9e05-4468-b6dd-771d35d0623b.png)
 
 
