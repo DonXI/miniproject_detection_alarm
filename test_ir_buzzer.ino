@@ -1,3 +1,5 @@
+// test input IR sensor, output buzzer
+
 #define buzzer 13     // pin buzzer
 #define ir_analog 32  // pin IR 
 const int ch = 0;     // channel
