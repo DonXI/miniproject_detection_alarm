@@ -8,9 +8,9 @@ const int bpm = 120;
 const int quarter_note_delay = (60 * 1000) / bpm;
 
 // wifi and line token 
-#define ssid "xi_xxviii"
-#define password "khanoon_chompoo"
-#define linetoken "qkYVxT6JeQtj2gj9qTqpvjt17Ze5p7Z1FzPiaBP5N9X"
+#define ssid "your_wifi"
+#define password "your_password_wifi"
+#define linetoken "token_line_notify"
 
 void setup() {
   Serial.begin(115200);
@@ -31,7 +31,7 @@ void setup() {
 
 void loop() {
   int val_ir = analogRead(ir_analog);
-  ledcWrite(ch, 80);  // set volume duty cycle = 25%
+  ledcWrite(ch, 25);  // set volume duty cycle = 25%
   Serial.println(val_ir);
   
   if(val_ir > 0){
@@ -40,7 +40,7 @@ void loop() {
   else{
     ledcWriteNote(ch, NOTE_C, 4);
     delay(quarter_note_delay);
-    LINE.notify("มีผู้บุกรุก");
+    LINE.notify("intruder!!!!");
     
   }
   delay(100);
