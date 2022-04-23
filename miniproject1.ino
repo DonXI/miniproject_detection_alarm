@@ -1,3 +1,5 @@
+// input IR, output buzzer and Line notify
+
 #include <TridentTD_LineNotify.h>
 #include <WiFi.h>
 
