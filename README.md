@@ -6,5 +6,6 @@ use board Kidbright and IR sensor write by ArduinoIDE
 <img width="585" alt="Screen Shot 2565-04-29 at 15 51 46" src="https://user-images.githubusercontent.com/64399206/165913788-6e3f9201-8621-4691-98cc-983e6e6a9917.png">
 
 
-
+6201012620082	ดนยาภา	ประมาณ
+6201012620139	นัทธมน	บุญนิธิ
 
