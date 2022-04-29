@@ -7,6 +7,9 @@
 ### 6201012620139 นัทธมน บุญนิธิ
 
 <img width="585" alt="Screen Shot 2565-04-29 at 15 51 46" src="https://user-images.githubusercontent.com/64399206/165913788-6e3f9201-8621-4691-98cc-983e6e6a9917.png">
+
+<img width="705" alt="Screen Shot 2565-04-29 at 16 54 41" src="https://user-images.githubusercontent.com/64399206/165924293-8c90d345-a35d-48aa-8121-224297f88742.png">
+
 <img width="910" alt="Screen Shot 2565-04-29 at 16 56 20" src="https://user-images.githubusercontent.com/64399206/165923523-62798fa6-11c5-458a-bc25-7ce3c88db326.png">
 
 
